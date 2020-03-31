@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1514980114 source:c:\users\antoine\desktop\v0.2.3\bc.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"header_structures.h"
+	"bc.h"
+
+1514980115 c:\users\antoine\desktop\v0.2.3\header_structures.h
+
+1514980114 c:\users\antoine\desktop\v0.2.3\bc.h
+	"header_structures.h"
+
+1514980114 source:c:\users\antoine\desktop\v0.2.3\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"bc.h"
+	"interface.h"
+	"header_structures.h"
+
+1514980114 c:\users\antoine\desktop\v0.2.3\interface.h
+	"header_structures.h"
+
+1514980114 source:c:\users\antoine\desktop\v0.2.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"header_structures.h"
+	"bc.h"
+	"interface.h"
+
+1514980114 source:c:\users\antoine\desktop\perrin_laborde_programme\bc.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"header_structures.h"
+	"bc.h"
+
+1514980115 c:\users\antoine\desktop\perrin_laborde_programme\header_structures.h
+
+1514980114 c:\users\antoine\desktop\perrin_laborde_programme\bc.h
+	"header_structures.h"
+
+1514980114 source:c:\users\antoine\desktop\perrin_laborde_programme\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"bc.h"
+	"interface.h"
+	"header_structures.h"
+
+1514980114 c:\users\antoine\desktop\perrin_laborde_programme\interface.h
+	"header_structures.h"
+
+1514980114 source:c:\users\antoine\desktop\perrin_laborde_programme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"header_structures.h"
+	"bc.h"
+	"interface.h"
+
